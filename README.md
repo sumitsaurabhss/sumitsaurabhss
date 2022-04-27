@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C# and dot NET Technologies.
 - 💞️ I’m looking to collaborate on web projects related to frontend and dot NET.
 - 📫 You can reach me through my email sumitsaurabh98@gmail.com
+- 💻 You can visit me at https://www.linkedin.com/in/sumitsaurabh01/
 
 <!---
 sumitsaurabhss/sumitsaurabhss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
